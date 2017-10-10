@@ -6,6 +6,10 @@ h3{
   color:blue;
 }
 
-li{
+.skills li{
   color:purple;
+}
+
+.tools li{
+  color:green;
 }
